@@ -4,7 +4,7 @@
 
 ---
 
-## Apresentação
+## Apresentação proj. GGPM
 
 A **Academia GGPM** é um projeto educacional de desenvolvimento web que apresenta, em um único site, informações sobre uma academia, seus planos e atividades oferecidas.
 
